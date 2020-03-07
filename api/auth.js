@@ -84,7 +84,7 @@ var signJwt = function(req, res, user) {
         }
       });
     });  
-  });
+  });			
 }
 
 var verifyJwt = function(req, res, user) {
