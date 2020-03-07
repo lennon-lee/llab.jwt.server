@@ -1,0 +1,7 @@
+{
+    "accessTokenSecret": "access-token-secret-manager",
+    "refreshAccessTokenSecret": "refresh-access-token-secret-manager",
+    "port": 3000,
+    "accessTokenExpiresIn": 86400,
+    "refreshAccessTokenExpiresIn": 604800
+}
